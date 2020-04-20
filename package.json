@@ -4,6 +4,7 @@
   "description": "this is a simple mobile friendly todo app",
   "main": "app.js",
   "scripts": {
+    "start":"node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nelapudi sandeep",
